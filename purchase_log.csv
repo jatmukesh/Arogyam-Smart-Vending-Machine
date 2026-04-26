@@ -1,0 +1,33 @@
+Timestamp,Name,Age,Email,Total,Items,BP_Systolic,BP_Diastolic,BP_Pulse,BP_Category
+17:55:06 01/12/2025,Mukesh,23,piyushzzsanap@gmail.com,20,Paracetamol 650 mg x1 = ₹20,120,81,78,Normal Blood Pressure
+17:57:20 01/12/2025,Mukesh,23,piyushzzsanap@gmail.com,20,Paracetamol 650 mg x1 = ₹20,122,82,78,Prehypertension
+17:58:22 01/12/2025,Mukesh,23,piyushzzsanap@gmail.com,20,Paracetamol 650 mg x1 = ₹20,121,84,73,Prehypertension
+18:00:56 01/12/2025,mukendar jat,23,piyushzzsanap@gmail.com,60,"Paracetamol 650 mg x1 = ₹20
+Azithromycin 500 mg x1 = ₹40",121,81,81,Prehypertension
+18:02:01 01/12/2025,mukendar jat,23,piyushzzsanap@gmail.com,60,"Paracetamol 650 mg x1 = ₹20
+Azithromycin 500 mg x1 = ₹40",127,96,69,Normal Blood Pressure
+18:03:07 01/12/2025,mukendar jat,23,piyushzzsanap@gmail.com,60,"Paracetamol 650 mg x1 = ₹20
+Azithromycin 500 mg x1 = ₹40",123,85,80,Prehypertension
+18:04:33 01/12/2025,mukendar jat,23,piyushzzsanap@gmail.com,60,"Paracetamol 650 mg x1 = ₹20
+Azithromycin 500 mg x1 = ₹40",138,81,77,Prehypertension
+18:07:13 01/12/2025,mukesh,23,202202029.mrunmayimvv@student.xavier.ac.in,25,Simethicone 80 mg x1 = ₹25,,,,
+18:08:38 01/12/2025,mukesh,23,202202031.mrunmayimvv@student.xavier.ac.in,55,"Pantoprazole 40 mg x1 = ₹30
+Simethicone 80 mg x1 = ₹25",,,,
+18:15:26 01/12/2025,mukesh,23,piyushzzsanap@gmail.com,55,"Ibuprofen 200 mg x1 = ₹25
+Pantoprazole 40 mg x1 = ₹30",106,68,78,Normal Blood Pressure
+12:48:31 04/02/2026,mukesh,21,divyanshupatil2610@gmail.com,250,Simethicone 80 mg x10,110,82,75,Normal Blood Pressure
+13:09:15 04/02/2026,mukesh,21,mukeshxx62@gmail.com,25,Simethicone 80 mg x1,,,,
+13:20:10 04/02/2026,mukesh,21,mukeshxx62@gmail.com,60,Dextromethorphan Syrup x1,,,,
+04-02-2026 13:42:08,sachin,21,kamblisachin75@gmail.com,30,Pantoprazole 40 mg x1,112,86,67,Normal Blood Pressure
+06-02-2026 10:06:22,Ayush Palde,21,ayushpalde745@gmail.com,135,"Paracetamol 650 mg x1, Ibuprofen 200 mg x1, Dextromethorphan Syrup x1, Pantoprazole 40 mg x1",Yes
+06-02-2026 10:28:13,shubham,21,shubhamssg25@gmail.com,15,Cetirizine 10 mg x1,Yes
+06-02-2026 10:31:04,Madhuri Maam,49,madhuri.j@xavier.ac.in,40,Paracetamol 650 mg x2,Yes
+06-02-2026 10:33:15,Madhuri Maam,49,madhuri.j@xavier.ac.in,40,Paracetamol 650 mg x2,Yes
+06-02-2026 10:34:49,Durvesh,21,durveshvbedre@gmail.com,40,"ORS Sachet x1, Loperamide 2 mg x1",No
+06-02-2026 10:48:05,sam,20,samiksha.rane2005@gmail.com,105,"Dextromethorphan Syrup x1, Ibuprofen 200 mg x1, Paracetamol 650 mg x1",Yes
+06-02-2026 14:04:16,manali maam,34,manali.t@xavier.ac.in,45,"Ibuprofen 200 mg x1, Paracetamol 650 mg x1",Yes
+06-02-2026 14:06:56,manali maam,34,manali.t@xavier.ac.in,45,"Ibuprofen 200 mg x1, Paracetamol 650 mg x1",Yes
+06-02-2026 14:07:54,manali maam,34,manali.t@xavier.ac.in,45,"Ibuprofen 200 mg x1, Paracetamol 650 mg x1",Yes
+07-02-2026 11:24:05,Mukesh,21,mukeshjat2910@gmail.com,20,Paracetamol 650 mg x1,Yes
+07-02-2026 11:26:07,Mukesh Jat,21,mukeshjat2910@gmail.com,45,"Paracetamol 650 mg x1, Ibuprofen 200 mg x1",No
+20-02-2026 07:49:38,Gopal,19,mukeshxx62@gmail.com,40,Azithromycin 500 mg x1,Yes

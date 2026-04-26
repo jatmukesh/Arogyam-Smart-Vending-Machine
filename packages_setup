@@ -1,0 +1,11 @@
+
+
+# qr code 
+
+pip3 install qrcode[pil] --break-system-packages
+# or, if needed:
+sudo pip3 install qrcode[pil]
+
+pip3 install qrcode[pil] --break-system-packages
+sudo apt install python3-pyqt5 -y
+pip3 install pyserial --break-system-packages  # if not already
